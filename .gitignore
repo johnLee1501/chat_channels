@@ -1,6 +1,5 @@
 .cache/
-.coverage
-.tox/
+.idea/
 htmlcov/
 staticfiles/
 venv/
