@@ -51,7 +51,6 @@ docker run -p 6379:6379 -d redis:5
 ```
 Si no deseas instalar redis y prefieres optar por una solución más sencillá, puedes utilizar un canal de testing:
 Ve a settings.py y remplaza la configuración del canal:
-Esto
 ```
 CHANNEL_LAYERS = {
     'default': {
